@@ -1,0 +1,2 @@
+# publish to folder outside, which has fwjay.github.io as origin inside github-site/dist
+dotnet publish -c Release -o ../github-site-publish
